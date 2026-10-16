@@ -29,7 +29,9 @@ export const botConfig = {
       },
     ],
   },
-
+  bio: [
+    {
+      state: "discord.gg/delulufreaks"
   // =========================
   // COMMAND BEHAVIOR
   // =========================
